@@ -1,5 +1,6 @@
 # Data Streaming Pipeline with Apache Kafka and Apache Flink
-![CI](https://github.com/github/docs/actions/workflows/python-ci.yml/badge.svg)
+
+![CI](https://github.com/uche-madu/finnhub-stream/actions/workflows/python-ci.yml/badge.svg)
 [![codecov](https://codecov.io/gh/uche-madu/finnhub-stream/branch/main/graph/badge.svg)](https://codecov.io/gh/uche-madu/finnhub-stream)
 
 - Checkout new feature branch
