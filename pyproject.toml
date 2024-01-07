@@ -1,0 +1,4 @@
+[tool.ruff]
+logger-objects = ["utils.logger"]
+show-fixes = true
+show-source = true
